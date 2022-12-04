@@ -1,0 +1,7 @@
+name: FlightBal
+version: '1.0-SNAPSHOT'
+main: com.savage.flightbal.FlightBal
+api-version: 1.19
+commands:
+  showbal:
+    description: shows a player's balence

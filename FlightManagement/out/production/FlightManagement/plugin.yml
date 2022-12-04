@@ -1,0 +1,11 @@
+name: FlightManagement
+version: 1.4
+author: Savagegamez_YT
+main: com.savage.flightmanagement.Main
+api-version: 1.18
+
+commands:
+  info:
+    description: Brings up an info gui
+    usage: /<command>
+    aliases: infogui
