@@ -1,0 +1,5 @@
+name: CustomBoss
+version: '${project.version}'
+main: com.savage.plugins.customboss.CustomBoss
+api-version: 1.19
+authors: [ me ]
